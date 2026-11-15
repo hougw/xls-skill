@@ -1,0 +1,3 @@
+﻿sheet,cell,to_cell,kind,image_file,source_part,key,alt_text,width,height,bytes,sha1,ocr_text,nearby_text
+BOM,B2,,in-cell (WPS DISPIMG),images/01_BOM_B2_cell1.png,xl/media/image1.png,ID_TESTA1,bracket photo,360,160,5322,9ba49ebf8fe9,WPS-A,left: Bracket; above: Picture; row: Bracket / SUS304
+BOM,B3,,in-cell (WPS DISPIMG),images/01_BOM_B3_cell2.png,xl/media/image2.png,ID_TESTB2,spring photo,360,160,5231,1c990b658323,WPS-B,left: Spring; above: Picture; row: Spring / 0.5 mm wire

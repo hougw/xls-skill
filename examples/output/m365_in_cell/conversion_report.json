@@ -1,0 +1,20 @@
+{
+  "source": "examples\\m365_in_cell.xlsx",
+  "output_dir": "examples\\output\\m365_in_cell",
+  "sheets": 2,
+  "images": {
+    "in_cell_wps": 0,
+    "in_cell_m365": 2,
+    "floating": 1,
+    "unresolved": 0,
+    "shapes_with_text": 1,
+    "charts": 0
+  },
+  "formulas": 2,
+  "ocr": {
+    "engine": "C:\\Program Files\\Tesseract-OCR\\tesseract.exe",
+    "langs": "eng"
+  },
+  "warnings": [],
+  "review_required": false
+}

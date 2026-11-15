@@ -1,0 +1,4 @@
+﻿sheet,cell,formula,cached_value
+BOM,B2,"=_xlfn.DISPIMG(""ID_TESTA1"",1)",
+BOM,B3,"=_xlfn.DISPIMG(""ID_TESTB2"",1)",
+BOM,B4,"=_xlfn.DISPIMG(""ID_NOPE"",1)",

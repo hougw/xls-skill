@@ -1,0 +1,22 @@
+{
+  "source": "examples\\wps_dispimg.xlsx",
+  "output_dir": "examples\\output\\wps_dispimg",
+  "sheets": 1,
+  "images": {
+    "in_cell_wps": 3,
+    "in_cell_m365": 0,
+    "floating": 0,
+    "unresolved": 1,
+    "shapes_with_text": 0,
+    "charts": 0
+  },
+  "formulas": 3,
+  "ocr": {
+    "engine": "C:\\Program Files\\Tesseract-OCR\\tesseract.exe",
+    "langs": "eng"
+  },
+  "warnings": [
+    "BOM!B4: image not found in package (in-cell (WPS DISPIMG), key ID_NOPE)"
+  ],
+  "review_required": true
+}

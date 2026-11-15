@@ -1,0 +1,4 @@
+﻿sheet,cell,to_cell,kind,image_file,source_part,key,alt_text,width,height,bytes,sha1,ocr_text,nearby_text
+Parts,B2,,in-cell (Microsoft 365),images/01_Parts_B2_cell1.png,xl/media/image1.png,vm=1,,360,160,3357,86bb14aa5dda,PART-A,left: Bracket; above: Photo; row: Bracket / Bracket | in-cell picture / 4
+Parts,B3,,in-cell (Microsoft 365),images/01_Parts_B3_cell2.png,xl/media/image2.png,vm=2,,360,160,4076,6f07ad51ae74,PART-B,left: Spring; above: Photo; row: Spring / Spring | in-cell picture / 6
+Parts,F2,K3,floating,images/01_Parts_F2_float3.png,xl/media/image3.png,Picture 1,f.png,360,160,3728,7b3ddf661f33,FLOAT-1,left: 4; row: Bracket / Bracket | in-cell picture / 4
